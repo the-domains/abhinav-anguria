@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0
 color:
   saturation: 0.3261649
-  brandStrength: 0.01532306266017258
+  brandStrength: 1
   lightness: 0.3781362
   brandColors:
-    - '#011260'
-    - '#FD0201'
-    - '#3C0000'
-    - '#020207'
-    - '#FD1F11'
+    - '#0B0B0B'
+    - '#B07C5D'
+    - '#1C6487'
+    - '#143245'
+    - '#811614'
   rhythmicContrast: 0.7204301
-layout_spectrum: 0.6917562
+typography_spectrum: 0
+layout_spectrum: 0
 name: Abhinav Anguria
