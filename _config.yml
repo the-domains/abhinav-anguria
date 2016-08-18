@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0
 color:
-  saturation: 0.5342553285881877
+  saturation: 0.3261649
   brandStrength: 0.01532306266017258
-  rhythmicContrast: 0.4880134279374033
+  lightness: 0.3781362
   brandColors:
-    - '#0E0E10'
-    - '#F9EFD2'
-    - '#D0C495'
-    - '#6E675F'
-    - '#878F8A'
-  lightness: 0.4644826925359666
-layout_spectrum: 1
+    - '#011260'
+    - '#FD0201'
+    - '#3C0000'
+    - '#020207'
+    - '#FD1F11'
+  rhythmicContrast: 0.7204301
+layout_spectrum: 0.6917562
 name: Abhinav Anguria
